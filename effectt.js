@@ -1,4 +1,4 @@
-$(window).load(function(){
+(window).load(function(){
 	$('.loading').fadeOut('fast');
 	$('.container').fadeIn('fast');
 });
