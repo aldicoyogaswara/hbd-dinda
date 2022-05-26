@@ -1,2 +1,0 @@
-# hbd-dinda
-happybirthdaydinda
